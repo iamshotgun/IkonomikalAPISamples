@@ -1,0 +1,11 @@
+D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\bin\Release\WebAPIPostExample.exe.config
+D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\bin\Release\WebAPIPostExample.exe
+D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\bin\Release\WebAPIPostExample.pdb
+D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\bin\Release\WebAPIPostExample.xml
+D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\bin\Release\Newtonsoft.Json.dll
+D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\obj\Release\WebAPIPostExample.saveNewData.resources
+D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\obj\Release\WebAPIPostExample.Resources.resources
+D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\obj\Release\WebAPIPostExample.vbproj.GenerateResource.Cache
+D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\obj\Release\WebAPIPostExample.exe
+D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\obj\Release\WebAPIPostExample.xml
+D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\obj\Release\WebAPIPostExample.pdb
