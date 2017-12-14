@@ -338,7 +338,6 @@ Public Class saveNewData
 
         Public Property isRead As System.Int32
         Public Property rowId As System.Int64
-        Public Property rspPrc As processToken
         Public Sub New()
             reset()
         End Sub
@@ -372,7 +371,6 @@ Public Class saveNewData
             _l004 = ""
             _isRead = -1
             _rowId = 1
-            _rspPrc = New processToken
         End Sub
     End Class
 #End Region
