@@ -59,6 +59,8 @@ Partial Class saveNewData
         Me.ikonomikalAddLbl = New System.Windows.Forms.Label()
         Me.ikonomikalAddFld = New System.Windows.Forms.TextBox()
         Me.makeSureAPIIsEnabledLbl = New System.Windows.Forms.Label()
+        Me.repSortLbl = New System.Windows.Forms.Label()
+        Me.repSortFld = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
         '
         'depCodeFld
@@ -113,7 +115,7 @@ Partial Class saveNewData
         Me.expTypFld.Items.AddRange(New Object() {"Operating Expenses", "Non-Operating Expenses"})
         Me.expTypFld.Location = New System.Drawing.Point(118, 376)
         Me.expTypFld.Name = "expTypFld"
-        Me.expTypFld.Size = New System.Drawing.Size(411, 21)
+        Me.expTypFld.Size = New System.Drawing.Size(154, 21)
         Me.expTypFld.TabIndex = 13
         '
         'expTypLbl
@@ -130,7 +132,7 @@ Partial Class saveNewData
         Me.Step3Btn.Location = New System.Drawing.Point(21, 522)
         Me.Step3Btn.Name = "Step3Btn"
         Me.Step3Btn.Size = New System.Drawing.Size(508, 23)
-        Me.Step3Btn.TabIndex = 16
+        Me.Step3Btn.TabIndex = 18
         Me.Step3Btn.Text = "Step 3: Execute ADD"
         Me.Step3Btn.UseVisualStyleBackColor = True
         '
@@ -140,7 +142,7 @@ Partial Class saveNewData
         Me.Step2Btn.Location = New System.Drawing.Point(21, 403)
         Me.Step2Btn.Name = "Step2Btn"
         Me.Step2Btn.Size = New System.Drawing.Size(508, 23)
-        Me.Step2Btn.TabIndex = 14
+        Me.Step2Btn.TabIndex = 15
         Me.Step2Btn.Text = "Step 2: Get ADD Token"
         Me.Step2Btn.UseVisualStyleBackColor = True
         '
@@ -151,7 +153,7 @@ Partial Class saveNewData
         Me.Step2RspFld.Name = "Step2RspFld"
         Me.Step2RspFld.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
         Me.Step2RspFld.Size = New System.Drawing.Size(251, 70)
-        Me.Step2RspFld.TabIndex = 16
+        Me.Step2RspFld.TabIndex = 17
         '
         'Step3RspFld
         '
@@ -160,7 +162,7 @@ Partial Class saveNewData
         Me.Step3RspFld.Name = "Step3RspFld"
         Me.Step3RspFld.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
         Me.Step3RspFld.Size = New System.Drawing.Size(251, 70)
-        Me.Step3RspFld.TabIndex = 18
+        Me.Step3RspFld.TabIndex = 20
         '
         'Step2ReqFld
         '
@@ -169,7 +171,7 @@ Partial Class saveNewData
         Me.Step2ReqFld.Name = "Step2ReqFld"
         Me.Step2ReqFld.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
         Me.Step2ReqFld.Size = New System.Drawing.Size(251, 70)
-        Me.Step2ReqFld.TabIndex = 15
+        Me.Step2ReqFld.TabIndex = 16
         '
         'Step3ReqFld
         '
@@ -178,7 +180,7 @@ Partial Class saveNewData
         Me.Step3ReqFld.Name = "Step3ReqFld"
         Me.Step3ReqFld.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
         Me.Step3ReqFld.Size = New System.Drawing.Size(251, 70)
-        Me.Step3ReqFld.TabIndex = 17
+        Me.Step3ReqFld.TabIndex = 19
         '
         'Step2ReqLbl
         '
@@ -370,12 +372,29 @@ Partial Class saveNewData
         Me.makeSureAPIIsEnabledLbl.Text = "API must be enabled from the User Home Page"
         Me.makeSureAPIIsEnabledLbl.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
+        'repSortLbl
+        '
+        Me.repSortLbl.Location = New System.Drawing.Point(278, 377)
+        Me.repSortLbl.Name = "repSortLbl"
+        Me.repSortLbl.Size = New System.Drawing.Size(94, 20)
+        Me.repSortLbl.TabIndex = 0
+        Me.repSortLbl.Text = "Report Sort"
+        '
+        'repSortFld
+        '
+        Me.repSortFld.Location = New System.Drawing.Point(378, 377)
+        Me.repSortFld.Name = "repSortFld"
+        Me.repSortFld.Size = New System.Drawing.Size(151, 20)
+        Me.repSortFld.TabIndex = 14
+        '
         'saveNewData
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.AutoScroll = True
         Me.ClientSize = New System.Drawing.Size(550, 647)
+        Me.Controls.Add(Me.repSortLbl)
+        Me.Controls.Add(Me.repSortFld)
         Me.Controls.Add(Me.makeSureAPIIsEnabledLbl)
         Me.Controls.Add(Me.ikonomikalAddLbl)
         Me.Controls.Add(Me.ikonomikalAddFld)
@@ -456,5 +475,7 @@ Partial Class saveNewData
     Friend WithEvents ikonomikalAddLbl As System.Windows.Forms.Label
     Friend WithEvents ikonomikalAddFld As System.Windows.Forms.TextBox
     Friend WithEvents makeSureAPIIsEnabledLbl As System.Windows.Forms.Label
+    Friend WithEvents repSortLbl As System.Windows.Forms.Label
+    Friend WithEvents repSortFld As System.Windows.Forms.TextBox
 
 End Class

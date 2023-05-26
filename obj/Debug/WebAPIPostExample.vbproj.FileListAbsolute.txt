@@ -2,6 +2,7 @@ D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCW
 D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\bin\Debug\WebAPIPostExample.exe
 D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\bin\Debug\WebAPIPostExample.pdb
 D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\bin\Debug\WebAPIPostExample.xml
+D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
 D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\bin\Debug\Microsoft.Threading.Tasks.dll
 D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
 D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
@@ -15,9 +16,15 @@ D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCW
 D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
 D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
 D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\bin\Debug\Newtonsoft.Json.xml
+D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\obj\Debug\WebAPIPostExample.vbproj.AssemblyReference.cache
+D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\obj\Debug\WebAPIPostExample.vbproj.SuggestedBindingRedirects.cache
+D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\obj\Debug\WebAPIPostExample.addToDeleteFromDataStorage.resources
 D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\obj\Debug\WebAPIPostExample.saveNewData.resources
 D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\obj\Debug\WebAPIPostExample.Resources.resources
-D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\obj\Debug\WebAPIPostExample.vbproj.GenerateResource.Cache
+D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\obj\Debug\WebAPIPostExample.switchOptions.resources
+D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\obj\Debug\WebAPIPostExample.vbproj.GenerateResource.cache
+D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\obj\Debug\WebAPIPostExample.vbproj.CoreCompileInputs.cache
+D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\obj\Debug\WebAPIPostExample.vbproj.CopyComplete
 D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\obj\Debug\WebAPIPostExample.exe
 D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\obj\Debug\WebAPIPostExample.xml
 D:\BCSSUNDERDEVELOPMENT\bcssweb01.visualstudio.com\DefaultCollection\BCSS_BERPCWEB01\ver01\berpc2\WebAPIPostExample\WebAPIPostExample\obj\Debug\WebAPIPostExample.pdb
